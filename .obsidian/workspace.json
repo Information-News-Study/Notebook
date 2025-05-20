@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0cfaa5a0e9bbd3d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-05-19/範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統"
-            }
-          },
-          {
             "id": "0a93394e7dd49d78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-19/範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統.md",
-                "mode": "preview",
-                "source": true
+                "file": "新聞&技術相關網站參考.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統"
+              "title": "新聞&技術相關網站參考"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -215,27 +200,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 780.5
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "workspaces:管理工作區配置": false,
       "zk-prefixer:建立新唯一筆記": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "templates:插入模板": false,
+      "canvas:建立新畫布": false,
+      "workspaces:管理工作區配置": false,
+      "switcher:開啟快速切換": false,
+      "daily-notes:開啟今天的每日筆記": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "graph:查看關聯圖": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "obsidian-git:Open Git source control": false,
+      "command-palette:開啟命令面板": false
     }
   },
-  "active": "61549e7f44ba6f6e",
+  "active": "9f44c0b5c49a29d6",
   "lastOpenFiles": [
-    "202505210417.md",
+    "新聞&技術相關網站參考.md",
     "2025-05-19/範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統.md",
+    "202505210417.md",
     "每週新技術研究與Obsidian筆記指南.md",
     "2025-05-19/2025-05-19.md",
     "2025-05-19",
