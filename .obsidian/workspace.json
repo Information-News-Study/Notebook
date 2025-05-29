@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8362a73a12437177",
+        "id": "433e6e41f15801b5",
         "type": "tabs",
         "children": [
           {
-            "id": "0a93394e7dd49d78",
+            "id": "190cbe875f0c8bfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "筆記(吉)/北韓駭客APT37偽冒國安論壇邀請信網釣目標，執行RoKRAT間諜攻擊.md",
-                "mode": "source",
-                "source": false
+                "file": "template/{{date}}：新聞標題模板.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "北韓駭客APT37偽冒國安論壇邀請信網釣目標，執行RoKRAT間諜攻擊"
+              "title": "{{date}}：新聞標題模板"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "right": {
     "id": "bda4f0429c9b9123",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "template/{{date}}：新聞標題模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "：新聞標題模板 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "template/{{date}}：新聞標題模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "：新聞標題模板 的對外連結"
             }
           },
           {
@@ -133,7 +133,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "標籤"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "template/{{date}}：新聞標題模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "：新聞標題模板 的大綱"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "61549e7f44ba6f6e",
+            "id": "ded6c4b2fabdd534",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 539.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,13 +217,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a93394e7dd49d78",
+  "active": "190cbe875f0c8bfc",
   "lastOpenFiles": [
+    "新聞&技術相關網站參考.md",
+    "未命名.md",
+    "template/{{date}}：新聞標題模板.md",
     "筆記(吉)/台積電供應鏈業者萬潤遭駭.md",
+    "2025-05-19.md",
+    "2025-05-19/範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統.md",
+    "template",
     "筆記(吉)/北韓駭客APT37偽冒國安論壇邀請信網釣目標，執行RoKRAT間諜攻擊.md",
     "筆記(吉)/5,300臺網路設備遭殭屍網路綁架，中國駭客ViciousTrap利用未有修補程式的已知漏洞入侵.md",
-    "新聞&技術相關網站參考.md",
-    "2025-05-19/範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統.md",
     "每週新技術研究與Obsidian筆記指南.md",
     "2025-05-19/2025-05-19.md",
     "202505210417.md",

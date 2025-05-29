@@ -1,11 +1,30 @@
 ---
-title: "範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統"
+title: 範例筆記：CyberGuard AI 發表 PredictiNet 2.0 主動式網路威脅偵測系統
 date: 2025-05-19
-關注類別: [技術突破, 安全威脅, 產品發布]
-技術類別: [人工智慧, 資訊安全, 網路技術]
-所用技術: [機器學習, 深度學習, 網路流量分析, 異常檢測, 預測分析]
-tags: [AI, CyberSecurity, NetworkSecurity, ThreatDetection, MachineLearning, PredictiNet]
-aliases: [PredictiNet 2.0 研究筆記]
+作者: 
+關注類別:
+  - 技術突破
+  - 安全威脅
+  - 產品發布
+技術類別:
+  - 人工智慧
+  - 資訊安全
+  - 網路技術
+所用技術:
+  - 機器學習
+  - 深度學習
+  - 網路流量分析
+  - 異常檢測
+  - 預測分析
+tags:
+  - AI
+  - CyberSecurity
+  - NetworkSecurity
+  - ThreatDetection
+  - MachineLearning
+  - PredictiNet
+aliases:
+  - PredictiNet 2.0 研究筆記
 ---
 
 ## 1. 主題 (Topic)
